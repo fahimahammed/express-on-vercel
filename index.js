@@ -9,6 +9,14 @@ app.get("/", (req, res) => {
   res.send("Express on Vercel");
 });
 
+app.get("/test1", (req, res) => {
+  res.send("Test 1 success");
+});
+
+app.get("/test/:id", (req, res) => {
+  res.send("Test 2 success");
+});
+
 // Initialize server
 app.listen(5000, () => {
   console.log("Running on port 5000.");
