@@ -55,4 +55,4 @@ module.exports = app;
 ১০। আপনার প্রজেক্টের উপর ক্লিক করে Visit বাটনে ক্লিক করলে base url টি পেয়ে যাবেন। 
 <img src='https://i.ibb.co/Dp7ynvx/image.png' alt="Click on Environment Variable Button"/>
 
-ধন্যবাদ।
+ধন্যবাদ।.
