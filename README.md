@@ -1,9 +1,7 @@
-# Deploy an Express API
-
 
 # Deploy an Express API on Vercel.
 
-১। Express API  Vercel-এ ডিপ্লয় করার জন্য প্রথমে Vercel ( `https://vercel.com/` ) এ একটি একাউন্ট খুলতে হবে। এখানে sign up করতে GitHub, GitLab or Bitbucket একাউন্ট অবশ্যই ব্যবহার করবেন। 
+১। Express API  Vercel-এ ডিপ্লয় করার জন্য প্রথমে <a href='https://vercel.com/'>Vercel</a> এ একটি একাউন্ট খুলতে হবে। এখানে sign up করতে GitHub, GitLab or Bitbucket একাউন্ট অবশ্যই ব্যবহার করবেন। 
 
 ২। আপনার Express API টি export করুন। index.js file এর শেষে নিচের লাইনটি লিখে দিন। তাহলে export হয়ে যাবে। 
 ```bash
@@ -34,7 +32,7 @@ module.exports = app;
 
 ৪। আপনার গিঠাহাবে প্রজেক্টটি পুশ করে দিন। 
 
-৫। তারপর https://vercel.com/dashboard এই লিঙ্কে গিয়ে `New Project` বাটনে ক্লিক করুন।
+৫। তারপর <a href='https://vercel.com/dashboard'>Vercel Dashboard</a>  এই লিঙ্কে গিয়ে `New Project` বাটনে ক্লিক করুন।
 
 <img src='https://i.ibb.co/c1FN0k9/image.jpg' alt="Click on New Project Button"/>
 
